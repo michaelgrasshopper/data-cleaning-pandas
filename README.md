@@ -47,7 +47,7 @@ The output of this step is:
 
 - clean_shark_df.csv
 
-- shark_analysis.ipynb
+*shark_analysis.ipynb*
 
 This notebook focuses on exploratory data analysis and insight generation.
 

@@ -87,15 +87,25 @@ Species	Shark species involved (when identified)
 Workflow
 
 sharks_df.csv
+
       ↓
+      
 structure.ipynb
+
       ↓
+      
 cleaning.ipynb
+
       ↓
+      
 clean_shark_df.csv
+
       ↓
+      
 shark_analysis.ipynb
+
       ↓
+      
 Findings and presentation
 
 Tools Used
